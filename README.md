@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Ephraïm Seddor
+# 👋 Salut, je suis Ephraïm Seddor
 
 ## 🧑‍💻 Développeur Fullstack & DevOps | Enseignant en Informatique
 
@@ -84,7 +84,7 @@ I love sharing knowledge through teaching and writing technical articles, helpin
 
 ---
 
-## 📢 Me contacter
+## 📢 Me contacter / Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ephra%C3%AFm-seddor/)
 [![X](https://img.shields.io/badge/X-black?style=flat&logo=twitter&logoColor=white)](https://x.com/ephraimseddor)
