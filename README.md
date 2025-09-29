@@ -1,4 +1,4 @@
-# 👋 Salut, je suis Ephraïm Seddor
+# 👋 Salut, je suis Ephraïm SEDDOR
 
 ## 🧑‍💻 Développeur Fullstack & DevOps | Enseignant en Informatique
 
